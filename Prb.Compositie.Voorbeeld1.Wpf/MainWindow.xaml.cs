@@ -28,6 +28,7 @@ namespace Prb.Compositie.Voorbeeld1.Wpf
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {     
             
+
         }
         private void LstProducts_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
